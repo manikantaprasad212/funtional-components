@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.playerPic{
+  width:300px;
+}
+.playerDiv{
+width:300px;
+border:15px solid brown;
+background-color: rgb(91, 91, 232);
+margin:20px;
+display:inline-block;
+}
